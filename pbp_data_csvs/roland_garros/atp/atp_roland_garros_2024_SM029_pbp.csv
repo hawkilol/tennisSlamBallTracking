@@ -1,0 +1,359 @@
+point_ID,set_num,game_num,point_num,serve_num,server_id,returner_id,point_winner_id,court_side,serve_speed_kph,serve_type,fault_distance_missed_m,x_ball_serve_impact,y_ball_serve_impact,z_ball_serve_impact,rally_length,point_end_type,error_type,trapped_by_net,last_stroke_type,last_hand,last_stroke_net_height_m,winner_placement,unforcedErrorPlacement,is_break_point,is_break_point_converted,is_track_avail,x_serve_bounce,y_serve_bounce,z_serve_bounce,serve_dir,z_net_serve,x_net_serve,y_net_serve,last_ball_impact_x,last_ball_impact_y,last_ball_impact_z,last_ball_bounce_x,last_ball_bounce_y,last_ball_bounce_z,serve_return_impact_x,serve_return_impact_y,serve_return_impact_z,serve_return_net_x,serve_return_net_y,serve_return_net_z,serve_return_bounce_x,serve_return_bounce_y,serve_return_bounce_z,spin_rpm,is_fault,is_doublefault,is_tiebreak,is_ace,is_prev_doublefault,is_prev_ace,server_score,returner_score
+NA,1,1,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+1_1_1_2,1,1,1,2,19689,36748,36748,DeuceCourt,0 KPH,NA,NA,,,,10,Forced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+1_1_2_1,1,1,2,1,19689,36748,36748,AdCourt,0 KPH,NA,NA,,,,6,Unforced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1
+NA,1,1,3,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,2
+1_1_3_2,1,1,3,2,19689,36748,36748,DeuceCourt,0 KPH,NA,NA,,,,4,Unforced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,2
+1_1_4_1,1,1,4,1,19689,36748,19689,AdCourt,0 KPH,NA,NA,,,,3,Unforced Error,NA,False,NA,BackHand,0 Metre,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,3
+1_1_5_1,1,1,5,1,19689,36748,19689,DeuceCourt,0 KPH,NA,NA,,,,3,Unforced Error,NA,False,NA,ForeHand,0 Metre,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,3
+NA,1,1,6,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,3
+1_1_6_2,1,1,6,2,19689,36748,36748,AdCourt,NA,NA,NA,,,,2,Winner,NA,False,,ForeHand,NA,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,3
+NA,1,2,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+1_2_1_2,1,2,1,2,36748,19689,36748,DeuceCourt,0 KPH,NA,NA,,,,23,Unforced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+1_2_2_1,1,2,2,1,36748,19689,36748,AdCourt,192 KPH,NA,NA,,,,1,Forced Error,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,0
+1_2_3_1,1,2,3,1,36748,19689,36748,DeuceCourt,192 KPH,NA,NA,,,,1,Forced Error,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,0
+NA,1,2,4,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,0
+1_2_4_2,1,2,4,2,36748,19689,36748,AdCourt,0 KPH,NA,NA,,,,1,Forced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,0
+1_3_1_1,1,3,1,1,19689,36748,19689,DeuceCourt,195 KPH,NA,NA,,,,5,Winner,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+NA,1,3,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+1_3_2_2,1,3,2,2,19689,36748,19689,AdCourt,0 KPH,NA,NA,,,,9,Forced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,0
+NA,1,3,3,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,0
+1_3_3_2,1,3,3,2,19689,36748,36748,DeuceCourt,0 KPH,NA,NA,,,,10,Unforced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,0
+1_3_4_1,1,3,4,1,19689,36748,19689,AdCourt,0 KPH,NA,NA,,,,5,Unforced Error,NA,False,NA,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,1
+1_3_5_1,1,3,5,1,19689,36748,19689,DeuceCourt,204 KPH,NA,NA,,,,1,Forced Error,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,1
+1_4_1_1,1,4,1,1,36748,19689,19689,DeuceCourt,192 KPH,NA,NA,,,,6,Winner,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+NA,1,4,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,1
+1_4_2_2,1,4,2,2,36748,19689,36748,AdCourt,0 KPH,NA,NA,,,,5,Unforced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1
+1_4_3_1,1,4,3,1,36748,19689,19689,DeuceCourt,202 KPH,NA,NA,,,,10,Forced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,1
+1_4_4_1,1,4,4,1,36748,19689,36748,AdCourt,187 KPH,NA,NA,,,,1,Forced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,2
+NA,1,4,5,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,2
+1_4_5_2,1,4,5,2,36748,19689,19689,DeuceCourt,0 KPH,NA,NA,,,,10,Unforced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,2
+NA,1,4,6,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,3
+1_4_6_2,1,4,6,2,36748,19689,36748,AdCourt,0 KPH,NA,NA,,,,3,Winner,NA,False,,BackHand,0 Metre,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,3
+NA,1,4,7,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,3
+1_4_7_2,1,4,7,2,36748,19689,36748,DeuceCourt,0 KPH,NA,NA,,,,13,Unforced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,3
+1_4_8_1,1,4,8,1,36748,19689,19689,AdCourt,202 KPH,NA,NA,,,,14,Forced Error,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,4,3
+1_4_9_1,1,4,9,1,36748,19689,36748,DeuceCourt,190 KPH,NA,NA,,,,5,Winner,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,4,4
+1_4_10_1,1,4,10,1,36748,19689,36748,AdCourt,201 KPH,NA,NA,,,,3,Unforced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,5,4
+NA,1,5,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+1_5_1_2,1,5,1,2,19689,36748,36748,DeuceCourt,0 KPH,NA,NA,,,,8,Forced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+1_5_2_1,1,5,2,1,19689,36748,19689,AdCourt,196 KPH,NA,NA,,,,7,Winner,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1
+1_5_3_1,1,5,3,1,19689,36748,19689,DeuceCourt,196 KPH,NA,NA,,,,3,Winner,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,1
+1_5_4_1,1,5,4,1,19689,36748,36748,AdCourt,0 KPH,NA,NA,,,,4,Winner,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,1
+1_5_5_1,1,5,5,1,19689,36748,19689,DeuceCourt,195 KPH,NA,NA,,,,1,Forced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,2
+NA,1,5,6,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,2
+1_5_6_2,1,5,6,2,19689,36748,36748,AdCourt,0 KPH,NA,NA,,,,0,DoubleFault,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,0,0,3,2
+NA,1,5,7,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,1,0,3,3
+1_5_7_2,1,5,7,2,19689,36748,19689,DeuceCourt,0 KPH,NA,NA,,,,9,Forced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,3
+NA,1,5,8,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,4,3
+1_5_8_2,1,5,8,2,19689,36748,19689,AdCourt,0 KPH,NA,NA,,,,7,Winner,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,4,3
+1_6_1_1,1,6,1,1,36748,19689,36748,DeuceCourt,185 KPH,NA,NA,,,,1,Forced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+NA,1,6,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+1_6_2_2,1,6,2,2,36748,19689,19689,AdCourt,NA,NA,NA,,,,0,DoubleFault,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,0,0,1,0
+1_6_3_1,1,6,3,1,36748,19689,19689,DeuceCourt,188 KPH,NA,NA,,,,4,Unforced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,1,1
+1_6_4_1,1,6,4,1,36748,19689,19689,AdCourt,182 KPH,NA,NA,,,,4,Unforced Error,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,2
+1_6_5_1,1,6,5,1,36748,19689,36748,DeuceCourt,184 KPH,NA,NA,,,,3,Winner,NA,False,,ForeHand,NA,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,3
+1_6_6_1,1,6,6,1,36748,19689,19689,AdCourt,195 KPH,NA,NA,,,,12,Winner,NA,False,,ForeHand,NA,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,3
+1_7_1_1,1,7,1,1,19689,36748,19689,DeuceCourt,173 KPH,NA,NA,,,,1,Forced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+NA,1,7,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+1_7_2_2,1,7,2,2,19689,36748,19689,AdCourt,0 KPH,NA,NA,,,,3,Forced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,0
+NA,1,7,3,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,0
+1_7_3_2,1,7,3,2,19689,36748,36748,DeuceCourt,0 KPH,NA,NA,,,,10,Unforced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,0
+1_7_4_1,1,7,4,1,19689,36748,36748,AdCourt,0 KPH,NA,NA,,,,4,Forced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,1
+1_7_5_1,1,7,5,1,19689,36748,36748,DeuceCourt,0 KPH,NA,NA,,,,8,Forced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,2
+1_7_6_1,1,7,6,1,19689,36748,19689,AdCourt,210 KPH,NA,NA,,,,1,Forced Error,NA,False,,ForeHand,NA,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,3
+1_7_7_1,1,7,7,1,19689,36748,19689,DeuceCourt,0 KPH,NA,NA,,,,11,Unforced Error,NA,False,NA,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,3
+1_7_8_1,1,7,8,1,19689,36748,19689,AdCourt,NA,NA,NA,,,,1,Ace,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,4,3
+NA,1,8,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,1,0,0
+1_8_1_2,1,8,1,2,36748,19689,19689,DeuceCourt,NA,NA,NA,,,,0,DoubleFault,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,0,0,0,0
+NA,1,8,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,1,0,0,1
+1_8_2_2,1,8,2,2,36748,19689,36748,AdCourt,0 KPH,NA,NA,,,,1,Unforced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1
+1_8_3_1,1,8,3,1,36748,19689,36748,DeuceCourt,193 KPH,NA,NA,,,,3,Winner,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,1
+1_8_4_1,1,8,4,1,36748,19689,36748,AdCourt,NA,NA,NA,,,,1,Ace,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,2,1
+NA,1,8,5,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,1,3,1
+1_8_5_2,1,8,5,2,36748,19689,19689,DeuceCourt,0 KPH,NA,NA,,,,2,Forced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,1
+1_8_6_1,1,8,6,1,36748,19689,19689,AdCourt,203 KPH,NA,NA,,,,12,Unforced Error,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,2
+1_8_7_1,1,8,7,1,36748,19689,19689,DeuceCourt,204 KPH,NA,NA,,,,4,Unforced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,3
+1_8_8_1,1,8,8,1,36748,19689,36748,AdCourt,193 KPH,NA,NA,,,,3,Unforced Error,NA,False,,BackHand,NA,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,4
+NA,1,8,9,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,4,4
+1_8_9_2,1,8,9,2,36748,19689,19689,DeuceCourt,0 KPH,NA,NA,,,,8,Unforced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,4,4
+1_8_10_1,1,8,10,1,36748,19689,19689,AdCourt,204 KPH,NA,NA,,,,16,Unforced Error,NA,False,,BackHand,NA,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,4,5
+NA,1,9,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+1_9_1_2,1,9,1,2,19689,36748,36748,DeuceCourt,0 KPH,NA,NA,,,,4,Unforced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+NA,1,9,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,1
+1_9_2_2,1,9,2,2,19689,36748,36748,AdCourt,0 KPH,NA,NA,,,,2,Unforced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1
+1_9_3_1,1,9,3,1,19689,36748,19689,DeuceCourt,205 KPH,NA,NA,,,,11,Winner,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,2
+1_9_4_1,1,9,4,1,19689,36748,19689,AdCourt,0 KPH,NA,NA,,,,17,Unforced Error,NA,False,NA,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,2
+1_9_5_1,1,9,5,1,19689,36748,36748,DeuceCourt,0 KPH,NA,NA,,,,10,Unforced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,2
+1_9_6_1,1,9,6,1,19689,36748,19689,AdCourt,200 KPH,NA,NA,,,,1,Forced Error,NA,False,,BackHand,NA,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,3
+NA,1,9,7,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,3
+1_9_7_2,1,9,7,2,19689,36748,19689,DeuceCourt,0 KPH,NA,NA,,,,1,Forced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,3
+NA,1,9,8,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,4,3
+1_9_8_2,1,9,8,2,19689,36748,36748,AdCourt,0 KPH,NA,NA,,,,4,Forced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,4,3
+1_9_9_1,1,9,9,1,19689,36748,19689,DeuceCourt,197 KPH,NA,NA,,,,5,Forced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,4,4
+1_9_10_1,1,9,10,1,19689,36748,19689,AdCourt,203 KPH,NA,NA,,,,3,Forced Error,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,5,4
+NA,2,1,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+2_1_1_2,2,1,1,2,36748,19689,19689,DeuceCourt,0 KPH,NA,NA,,,,14,Winner,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+2_1_2_1,2,1,2,1,36748,19689,36748,AdCourt,187 KPH,NA,NA,,,,1,Forced Error,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1
+2_1_3_1,2,1,3,1,36748,19689,19689,DeuceCourt,200 KPH,NA,NA,,,,4,Forced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,1
+NA,2,1,4,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,2
+2_1_4_2,2,1,4,2,36748,19689,19689,AdCourt,0 KPH,NA,NA,,,,4,Unforced Error,NA,False,,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,2
+2_1_5_1,2,1,5,1,36748,19689,19689,DeuceCourt,202 KPH,NA,NA,,,,6,Forced Error,NA,False,,ForeHand,NA,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,3
+NA,2,2,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+2_2_1_2,2,2,1,2,19689,36748,19689,DeuceCourt,0 KPH,NA,NA,,,,15,Winner,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+NA,2,2,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+2_2_2_2,2,2,2,2,19689,36748,19689,AdCourt,0 KPH,NA,NA,,,,3,Unforced Error,NA,False,NA,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,0
+NA,2,2,3,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,0
+2_2_3_2,2,2,3,2,19689,36748,19689,DeuceCourt,0 KPH,NA,NA,,,,1,Unforced Error,NA,False,NA,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,0
+NA,2,2,4,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,0
+2_2_4_2,2,2,4,2,19689,36748,19689,AdCourt,0 KPH,NA,NA,,,,3,Winner,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,0
+2_3_1_1,2,3,1,1,36748,19689,36748,DeuceCourt,189 KPH,NA,NA,,,,7,Unforced Error,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+2_3_2_1,2,3,2,1,36748,19689,36748,AdCourt,189 KPH,NA,NA,,,,19,Winner,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,0
+2_3_3_1,2,3,3,1,36748,19689,36748,DeuceCourt,191 KPH,NA,NA,,,,3,Forced Error,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,0
+2_3_4_1,2,3,4,1,36748,19689,36748,AdCourt,177 KPH,NA,NA,,,,3,Winner,NA,False,,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,0
+2_4_1_1,2,4,1,1,19689,36748,36748,DeuceCourt,0 KPH,NA,NA,,,,2,Unforced Error,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0
+2_4_2_1,2,4,2,1,19689,36748,36748,AdCourt,209.79 KPH,NA,0.51 Metre,-11.242,1.068,2.931,0,Faulty Serve,Net Error,True,NA,BackHand,0.92 Metre,NA,Net Error,False,False,True,-0.513,-3.085,0.029,Wide,0.921,0.12,-2.425,-11.242,1.068,2.931,-0.513,-3.085,0.029,,,,,,,,,,NA,1,0,0,0,0,0,0,1
+2_4_2_2,2,4,2,2,19689,36748,19689,AdCourt,160 KPH,Flat,NA,-11.535,1.456,2.985,1,Forced Error,NA,False,Ground,BackHand,2.36 Metre,NA,NA,False,False,True,4.011,-3.495,0.035,Wide,1.052,0.0,-2.421,10.692,-5.528,1.469,-12.796,4.425,0.043,10.692,-5.528,1.469,0.0,-1.045,2.36,-12.796,4.425,0.043,968.1,0,0,0,0,0,0,0,1
+NA,2,4,3,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,1
+2_4_3_2,2,4,3,2,19689,36748,19689,DeuceCourt,0 KPH,NA,NA,,,,5,Unforced Error,NA,False,Ground,BackHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1676.52,0,0,0,0,0,0,1,1
+2_4_4_1,2,4,4,1,19689,36748,19689,AdCourt,160 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,ForeHand,2.36 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,968.1,1,0,0,0,0,0,2,1
+2_4_4_2,2,4,4,2,19689,36748,19689,AdCourt,0 KPH,NA,NA,,,,11,Winner,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,1
+2_4_5_1,2,4,5,1,19689,36748,36748,DeuceCourt,0 KPH,NA,NA,,,,6,Winner,NA,False,,ForeHand,0 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,1
+NA,2,4,6,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,2
+2_4_6_2,2,4,6,2,19689,36748,19689,AdCourt,160 KPH,NA,NA,,,,9,Forced Error,NA,False,Ground,ForeHand,2.36 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,968.1,0,0,0,0,0,0,3,2
+2_5_1_1,2,5,1,1,36748,19689,19689,DeuceCourt,193 KPH,Flat,NA,11.097,1.166,2.846,2,Unforced Error,NA,True,Ground,BackHand,0.81 Metre,NA,Net Error,False,False,True,-5.153,-2.69,0.039,Body,1.126,0.0,-1.393,12.681,-3.209,1.268,0.045,0.951,0.04,-15.652,-5.496,0.985,0.0,-4.236,1.515,6.838,-3.744,0.036,1898.28,0,0,0,0,0,0,0,0
+2_5_2_1,2,5,2,1,36748,19689,19689,AdCourt,193 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,BackHand,0.81 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1898.28,1,0,0,0,0,0,0,1
+2_5_2_2,2,5,2,2,36748,19689,36748,AdCourt,168 KPH,Flat,NA,11.263,-1.618,2.831,7,Winner,NA,False,Passing,BackHand,1.02 Metre,Cross Court,NA,False,False,True,-5.811,3.296,0.038,Wide,1.382,0.0,1.82,5.586,-2.327,0.577,-8.099,3.385,0.031,-15.831,6.1,1.194,-0.0,2.09,2.568,11.1,-0.168,0.045,1959.96,0,0,0,0,0,0,0,1
+2_5_3_1,2,5,3,1,36748,19689,36748,DeuceCourt,209 KPH,NA,NA,,,,3,Winner,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1898.28,0,0,0,0,0,0,1,1
+2_5_4_1,2,5,4,1,36748,19689,36748,AdCourt,193 KPH,NA,NA,,,,3,Winner,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1898.28,0,0,0,0,0,0,2,1
+2_5_5_1,2,5,5,1,36748,19689,36748,DeuceCourt,191 KPH,Flat,NA,11.26,1.367,2.913,3,Winner,NA,False,Ground,ForeHand,1.36 Metre,Down the Line,NA,False,False,True,-5.591,-3.786,0.04,Wide,1.258,0.0,-1.939,10.861,2.888,0.788,-10.144,2.799,0.034,-16.01,-7.235,1.17,0.0,-1.152,1.075,5.41,0.834,0.048,2146.92,0,0,0,0,0,0,3,1
+NA,2,6,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+2_6_1_2,2,6,1,2,19689,36748,19689,DeuceCourt,193 KPH,NA,NA,,,,7,Unforced Error,NA,False,Ground,ForeHand,0.81 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3138.3,0,0,0,0,0,0,0,0
+NA,2,6,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+2_6_2_2,2,6,2,2,19689,36748,36748,AdCourt,191 KPH,NA,NA,,,,0,DoubleFault,NA,False,Ground,BackHand,1.36 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2146.92,1,1,0,0,0,0,1,0
+2_6_3_1,2,6,3,1,19689,36748,36748,DeuceCourt,191 KPH,NA,NA,,,,10,Forced Error,NA,False,Ground,BackHand,1.36 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2146.92,0,0,0,0,1,0,1,1
+2_6_4_1,2,6,4,1,19689,36748,36748,AdCourt,191 KPH,NA,NA,,,,2,Unforced Error,NA,False,Ground,ForeHand,1.36 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2146.92,0,0,0,0,0,0,1,2
+2_6_5_1,2,6,5,1,19689,36748,36748,DeuceCourt,160 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,ForeHand,2.36 Metre,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,968.1,1,0,0,0,0,0,1,3
+2_6_5_2,2,6,5,2,19689,36748,19689,DeuceCourt,157 KPH,Flat,NA,11.654,0.328,2.927,3,Forced Error,NA,False,Ground,ForeHand,NA,NA,NA,True,False,True,-3.736,-0.409,0.04,T,1.034,0.0,-0.075,-16.124,-3.938,1.334,12.885,-3.949,0.037,-16.064,-1.205,1.27,-0.0,-0.78,2.534,9.458,-0.797,0.041,NA,0,0,0,0,0,0,1,3
+2_6_6_1,2,6,6,1,19689,36748,19689,AdCourt,157 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,BackHand,NA,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,3
+2_6_6_2,2,6,6,2,19689,36748,36748,AdCourt,NA,NA,NA,,,,20,Winner,NA,False,,BackHand,NA,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,3
+2_7_1_1,2,7,1,1,36748,19689,19689,DeuceCourt,189 KPH,NA,NA,,,,6,Winner,NA,False,Ground,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2146.92,0,0,0,0,0,0,0,0
+2_7_2_1,2,7,2,1,36748,19689,36748,AdCourt,205 KPH,Flat,NA,-11.109,1.307,2.875,5,Unforced Error,NA,False,Ground,ForeHand,2.19 Metre,NA,Long Error,False,False,True,4.303,-0.408,0.048,T,0.96,0.0,0.009,14.684,1.011,0.589,-12.49,-1.422,0.042,16.624,-1.432,1.123,0.0,0.718,2.69,-11.317,2.141,0.042,2801.4,0,0,0,0,0,0,0,1
+2_7_3_1,2,7,3,1,36748,19689,19689,DeuceCourt,202 KPH,Flat,NA,-11.426,-1.314,2.971,14,Unforced Error,NA,True,Ground,ForeHand,0.73 Metre,NA,Net Error,False,False,True,4.325,2.32,0.04,Body,1.001,0.0,1.272,-13.268,-1.127,0.619,,,,15.637,5.203,1.088,0.0,3.275,2.239,-10.129,2.327,0.043,3246.18,0,0,0,0,0,0,1,1
+2_7_4_1,2,7,4,1,36748,19689,19689,AdCourt,196 KPH,NA,NA,,,,16,Unforced Error,NA,False,Ground,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3246.18,0,0,0,0,0,0,1,2
+2_7_5_1,2,7,5,1,36748,19689,36748,DeuceCourt,195 KPH,Flat,NA,-11.383,-1.232,2.965,7,Unforced Error,NA,True,NA,ForeHand,0.73 Metre,NA,Net Error,True,False,True,5.812,0.772,0.045,T,1.21,-0.0,0.065,3.864,0.477,1.468,0.026,0.75,0.04,16.54,2.11,0.833,-0.0,1.829,1.784,-7.932,1.62,0.04,NA,0,0,0,0,0,0,1,3
+NA,2,7,6,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,3
+2_7_6_2,2,7,6,2,36748,19689,19689,AdCourt,195 KPH,NA,NA,,,,2,Unforced Error,NA,False,NA,BackHand,0.73 Metre,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,2,3
+2_8_1_1,2,8,1,1,19689,36748,36748,DeuceCourt,193 KPH,Flat,NA,-11.546,-0.555,2.923,2,Unforced Error,NA,False,Ground,ForeHand,2.3 Metre,NA,Long Error,False,False,True,4.788,2.83,0.039,Wide,1.066,0.0,1.725,-12.9,0.909,0.865,12.885,2.163,0.042,13.289,4.727,1.452,0.0,2.526,1.668,-8.016,1.519,0.039,3433.92,0,0,0,0,0,0,0,0
+NA,2,8,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,1
+2_8_2_2,2,8,2,2,19689,36748,19689,AdCourt,202 KPH,NA,NA,,,,5,Unforced Error,NA,False,Ground,ForeHand,0.73 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1
+NA,2,8,3,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,1
+2_8_3_2,2,8,3,2,19689,36748,36748,DeuceCourt,193 KPH,NA,NA,,,,10,Forced Error,NA,False,Ground,ForeHand,2.3 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3433.92,0,0,0,0,0,0,1,1
+2_8_4_1,2,8,4,1,19689,36748,19689,AdCourt,217 KPH,NA,NA,,,,3,Winner,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3433.92,0,0,0,0,0,0,1,2
+2_8_5_1,2,8,5,1,19689,36748,36748,DeuceCourt,188 KPH,Slice,NA,-11.472,-0.549,2.913,8,Forced Error,NA,False,Passing,ForeHand,1.44 Metre,NA,NA,False,False,True,5.239,3.394,0.037,Wide,1.163,0.0,1.989,-12.198,-3.73,0.605,11.242,-4.615,0.028,12.651,5.574,1.176,0.0,2.242,2.255,-11.284,-0.411,0.044,1833.06,0,0,0,0,0,0,2,2
+2_8_6_1,2,8,6,1,19689,36748,19689,AdCourt,202 KPH,NA,NA,,,,5,Unforced Error,NA,False,Ground,ForeHand,0.73 Metre,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,3580.86,0,0,0,0,0,0,2,3
+2_8_7_1,2,8,7,1,19689,36748,19689,DeuceCourt,NA,NA,NA,,,,1,Ace,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,3,3
+2_8_8_1,2,8,8,1,19689,36748,19689,AdCourt,199 KPH,NA,NA,,,,1,Forced Error,NA,False,Passing,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1833.06,0,0,0,0,0,1,4,3
+2_9_1_1,2,9,1,1,36748,19689,19689,DeuceCourt,195 KPH,Flat,NA,10.917,1.226,2.781,2,Unforced Error,NA,True,Volley,ForeHand,0.67 Metre,NA,Net Error,False,False,True,-4.929,-1.481,0.038,Body,1.037,0.0,-0.585,5.675,0.494,1.46,0.02,-0.929,0.04,-15.898,-3.622,1.166,0.0,-0.767,2.133,0.02,-0.929,0.04,0,0,0,0,0,0,0,0,0
+2_9_2_1,2,9,2,1,36748,19689,19689,AdCourt,163 KPH,NA,NA,11.268,-1.635,2.901,0,NA,NA,True,NA,BackHand,0.89 Metre,NA,NA,False,False,True,0.148,0.351,0.04,T,0.889,-0.047,0.052,11.268,-1.635,2.901,0.148,0.351,0.04,,,,,,,,,,NA,0,0,0,0,0,0,0,1
+2_9_3_1,2,9,3,1,36748,19689,36748,DeuceCourt,NA,NA,NA,,,,1,Ace,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,2
+2_9_4_1,2,9,4,1,36748,19689,36748,AdCourt,NA,NA,NA,,,,1,Ace,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,1,1,2
+2_9_5_1,2,9,5,1,36748,19689,36748,DeuceCourt,193 KPH,NA,NA,,,,3,Winner,NA,False,Volley,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,2,2
+2_9_6_1,2,9,6,1,36748,19689,36748,AdCourt,177 KPH,Kick,NA,11.386,-1.816,2.879,3,Forced Error,NA,True,Drop,BackHand,0.71 Metre,NA,NA,False,False,True,-3.941,3.205,0.036,Wide,1.035,-0.0,2.049,-14.448,4.192,1.133,-0.064,-0.358,0.039,-14.356,6.574,1.706,0.0,0.844,1.204,4.491,-0.717,0.048,NA,0,0,0,0,0,0,3,2
+2_10_1_1,2,10,1,1,19689,36748,19689,DeuceCourt,211 KPH,NA,NA,,,,1,Forced Error,NA,False,Passing,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1833.06,0,0,0,0,0,0,0,0
+NA,2,10,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+2_10_2_2,2,10,2,2,19689,36748,19689,AdCourt,163 KPH,NA,NA,,,,15,Winner,NA,False,NA,ForeHand,0.89 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,0
+NA,2,10,3,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,0
+2_10_3_2,2,10,3,2,19689,36748,36748,DeuceCourt,165 KPH,Slice,NA,11.531,0.362,2.937,2,Forced Error,NA,False,Ground,ForeHand,2.3 Metre,NA,NA,False,False,True,-5.223,-3.644,0.04,Wide,1.234,0.0,-2.166,12.189,5.973,1.052,-12.885,3.57,0.045,-15.888,-6.713,1.135,-0.0,0.34,1.205,5.564,2.847,0.04,1979.64,0,0,0,0,0,0,2,0
+2_10_4_1,2,10,4,1,19689,36748,19689,AdCourt,217 KPH,NA,NA,,,,3,Forced Error,NA,False,Passing,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1833.06,0,0,0,0,0,0,2,1
+2_10_5_1,2,10,5,1,19689,36748,36748,DeuceCourt,165 KPH,NA,NA,,,,4,Forced Error,NA,False,Ground,ForeHand,2.3 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1979.64,0,0,0,0,0,0,3,1
+2_10_6_1,2,10,6,1,19689,36748,36748,AdCourt,165 KPH,NA,NA,,,,6,Forced Error,NA,False,Ground,ForeHand,2.3 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1979.64,0,0,0,0,0,0,3,2
+NA,2,10,7,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,3
+2_10_7_2,2,10,7,2,19689,36748,36748,DeuceCourt,154 KPH,Pronated,NA,11.629,0.12,2.945,8,Forced Error,NA,False,Ground,BackHand,3.11 Metre,NA,NA,False,False,True,-3.785,-0.97,0.04,T,1.061,0.0,-0.52,14.977,-5.504,1.091,-11.921,2.154,0.042,-16.023,-1.736,1.26,-0.0,0.609,1.965,9.595,1.802,0.044,NA,0,0,0,0,0,0,3,3
+2_10_8_1,2,10,8,1,19689,36748,36748,AdCourt,NA,NA,NA,,,,0,NA,NA,False,,NA,NA,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,4
+2_11_1_1,2,11,1,1,36748,19689,36748,DeuceCourt,177 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Drop,BackHand,0.71 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+2_11_1_2,2,11,1,2,36748,19689,19689,DeuceCourt,175 KPH,Slice,NA,-11.544,-0.954,2.916,14,Unforced Error,NA,False,Ground,BackHand,2.13 Metre,NA,Long Error,False,False,True,5.502,0.73,0.048,T,1.311,-0.0,-0.002,-15.073,3.296,1.005,12.885,4.615,0.032,16.392,2.384,1.137,0.0,1.661,2.559,-10.38,1.453,0.041,1608.42,0,0,0,0,0,0,0,0
+NA,2,11,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,1
+2_11_2_2,2,11,2,2,36748,19689,36748,AdCourt,177 KPH,NA,NA,,,,5,Winner,NA,False,Drop,ForeHand,0.71 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,0,1
+2_11_3_1,2,11,3,1,36748,19689,36748,DeuceCourt,203 KPH,Flat,NA,-11.31,-1.002,2.868,1,Forced Error,NA,True,Ground,ForeHand,0.83 Metre,NA,NA,False,False,True,5.394,2.979,0.04,Wide,1.153,-0.0,1.613,15.964,5.829,1.032,0.016,0.86,0.04,15.964,5.829,1.032,0.0,1.313,0.835,0.016,0.86,0.04,3203.28,0,0,0,0,0,0,1,1
+NA,2,11,4,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,1
+2_11_4_2,2,11,4,2,36748,19689,19689,AdCourt,167 KPH,Pronated,NA,-11.479,1.934,2.9,14,Forced Error,NA,False,Ground,ForeHand,2.62 Metre,NA,NA,False,False,True,4.217,-0.184,0.048,T,1.104,-0.0,0.253,-15.503,-3.305,0.561,12.885,1.463,0.043,16.518,-1.934,1.227,-0.0,-1.383,1.274,-5.878,-1.16,0.039,2155.68,0,0,0,0,0,0,2,1
+2_11_5_1,2,11,5,1,36748,19689,36748,DeuceCourt,204 KPH,Flat,NA,-11.332,-1.173,2.953,1,Forced Error,NA,False,Ground,BackHand,2.81 Metre,NA,NA,False,False,True,4.013,0.49,0.047,T,0.946,0.0,0.035,17.071,2.172,1.158,-9.773,-4.817,0.031,17.071,2.172,1.158,0.0,-2.061,2.806,-9.773,-4.817,0.031,NA,0,0,0,0,0,0,2,2
+2_11_6_1,2,11,6,1,36748,19689,36748,AdCourt,209 KPH,Flat,NA,-11.346,1.732,2.885,1,Forced Error,NA,True,Ground,ForeHand,1.2 Metre,NA,NA,False,False,True,5.607,-0.466,0.048,T,1.196,-0.0,0.177,17.064,-1.658,0.833,2.741,-4.702,0.032,,,,,,,,,,1361.94,0,0,0,0,0,0,3,2
+2_12_1_1,2,12,1,1,19689,36748,19689,DeuceCourt,208 KPH,Flat,NA,-11.51,-0.78,2.92,7,Winner,NA,False,Overhead,ForeHand,1.92 Metre,Cross Court,NA,False,False,True,4.75,0.358,0.048,T,1.033,0.0,-0.027,-7.664,0.262,2.847,10.209,-3.143,0.039,13.932,1.201,1.343,0.0,0.404,1.68,-7.303,0.036,0.038,NA,0,0,0,0,0,0,0,0
+2_12_2_1,2,12,2,1,19689,36748,19689,AdCourt,171 KPH,NA,NA,,,,1,Forced Error,NA,False,Overhead,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,0
+2_12_3_1,2,12,3,1,19689,36748,19689,DeuceCourt,191 KPH,Flat,NA,-11.57,-0.71,2.91,3,Unforced Error,NA,False,Ground,ForeHand,2.06 Metre,NA,Wide Error,False,False,True,4.351,3.036,0.04,Wide,1.016,-0.0,1.9,14.034,1.434,1.388,-9.921,4.165,0.033,12.835,5.229,1.18,0.0,1.727,1.243,-7.582,-0.286,0.039,2474.46,0,0,0,0,0,0,2,0
+2_12_4_1,2,12,4,1,19689,36748,19689,AdCourt,208 KPH,Flat,NA,-11.561,1.334,2.928,1,Forced Error,NA,True,Ground,BackHand,0.91 Metre,NA,NA,False,False,True,4.661,-3.375,0.036,Wide,1.042,0.0,-2.075,13.299,-5.829,1.266,1.4,3.885,0.036,13.299,-5.829,1.266,-0.016,-0.082,0.912,1.4,3.885,0.036,1553.28,0,0,0,0,0,0,3,0
+NA,2,13,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,1,0,0,0,0,0
+2_13_1_2,2,13,1,2,36748,19689,19689,DeuceCourt,181 KPH,Flat,NA,11.497,1.123,2.912,18,Winner,NA,False,Approach,ForeHand,1.37 Metre,Cross Court,NA,False,False,True,-4.203,-2.621,0.04,Body,1.049,0.0,-1.505,-6.069,-3.755,0.845,10.553,3.72,0.038,-16.642,-5.769,1.287,-0.0,-4.241,1.918,9.183,-3.576,0.039,3160.26,0,0,1,0,0,0,0,0
+NA,2,13,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,1,0,0,0,1,0
+2_13_2_2,2,13,2,2,19689,36748,36748,AdCourt,209 KPH,NA,NA,,,,4,Unforced Error,NA,False,Ground,ForeHand,1.2 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1361.94,0,0,1,0,0,0,1,0
+2_13_3_1,2,13,3,1,19689,36748,36748,DeuceCourt,208 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,ForeHand,0.91 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1553.28,1,0,1,0,0,0,1,1
+2_13_3_2,2,13,3,2,19689,36748,19689,DeuceCourt,181 KPH,NA,NA,,,,13,Forced Error,NA,False,Approach,ForeHand,1.37 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3160.26,0,0,1,0,0,0,1,1
+NA,2,13,4,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,1,0,0,0,1,2
+2_13_4_2,2,13,4,2,36748,19689,36748,AdCourt,209 KPH,NA,NA,,,,1,Unforced Error,NA,False,Ground,ForeHand,1.2 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1361.94,0,0,1,0,0,0,1,2
+2_13_5_1,2,13,5,1,36748,19689,36748,DeuceCourt,NA,NA,NA,,,,1,Ace,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,1,0,0,2,2
+2_13_6_1,2,13,6,1,19689,36748,19689,AdCourt,191 KPH,NA,NA,,,,9,Unforced Error,NA,False,Ground,ForeHand,2.06 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3590.7,0,0,1,0,0,1,2,3
+2_13_7_1,2,13,7,1,19689,36748,19689,DeuceCourt,189 KPH,Flat,NA,11.514,0.534,2.924,1,Winner,NA,False,NA,ForeHand,1.1 Metre,Cross Court,NA,False,False,True,-4.82,-3.881,0.04,Wide,1.105,0.0,-2.416,11.514,0.534,2.924,-4.82,-3.881,0.04,,,,,,,,,,NA,0,0,1,0,0,0,3,3
+2_13_8_1,2,13,8,1,36748,19689,19689,AdCourt,197 KPH,NA,NA,,,,4,Unforced Error,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1361.94,0,0,1,0,0,0,3,4
+2_13_9_1,2,13,9,1,36748,19689,36748,DeuceCourt,202 KPH,Flat,NA,-11.192,-1.144,2.924,5,Winner,NA,False,Volley,BackHand,1.21 Metre,Down the Line,NA,False,False,True,4.337,0.414,0.048,T,0.973,-0.0,-0.034,-3.267,1.488,1.695,5.635,3.178,0.039,16.038,1.669,1.336,0.0,-0.818,2.799,-10.417,-2.027,0.04,NA,0,0,1,0,0,0,3,5
+2_13_10_1,2,13,10,1,19689,36748,19689,AdCourt,197 KPH,NA,NA,,,,5,Winner,NA,False,NA,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,1,0,0,0,5,4
+2_13_11_1,2,13,11,1,19689,36748,19689,DeuceCourt,210 KPH,NA,NA,,,,3,Winner,NA,False,NA,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,1,0,0,0,6,4
+3_1_1_1,3,1,1,1,19689,36748,19689,DeuceCourt,207.36 KPH,NA,0.5 Metre,-11.383,-0.65,2.91,0,Faulty Serve,Net Error,True,NA,BackHand,0.81 Metre,NA,Net Error,False,False,True,-0.266,-0.428,0.039,T,0.81,0.065,-0.069,-11.383,-0.65,2.91,-0.266,-0.428,0.039,,,,,,,,,,0,1,0,0,0,0,0,0,0
+3_1_1_2,3,1,1,2,19689,36748,19689,DeuceCourt,191 KPH,NA,NA,,,,5,Unforced Error,NA,False,Ground,BackHand,2.06 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1257.96,0,0,0,0,0,0,0,0
+3_1_2_1,3,1,2,1,19689,36748,36748,AdCourt,202 KPH,NA,NA,,,,16,Winner,NA,False,Volley,BackHand,1.21 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,0
+3_1_3_1,3,1,3,1,19689,36748,19689,DeuceCourt,187 KPH,Slice,NA,-11.525,-0.614,2.928,3,Forced Error,NA,False,Drop,BackHand,2.26 Metre,NA,NA,False,False,True,4.538,3.127,0.04,Wide,1.036,0.0,1.911,15.72,-4.09,0.271,-4.862,4.761,0.034,12.911,5.443,1.065,0.0,1.769,2.098,-6.69,0.155,0.039,NA,0,0,0,0,0,0,1,1
+3_1_4_1,3,1,4,1,19689,36748,19689,AdCourt,213 KPH,NA,NA,,,,1,Forced Error,NA,False,Drop,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,2,1
+NA,3,1,5,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,1
+3_1_5_2,3,1,5,2,19689,36748,19689,DeuceCourt,187 KPH,NA,NA,,,,9,Forced Error,NA,False,Drop,ForeHand,2.26 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,3,1
+NA,3,2,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+3_2_1_2,3,2,1,2,36748,19689,36748,DeuceCourt,202 KPH,NA,NA,,,,3,Forced Error,NA,False,Volley,ForeHand,1.21 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,0,0
+3_2_2_1,3,2,2,1,36748,19689,36748,AdCourt,182 KPH,NA,NA,,,,3,Winner,NA,False,Volley,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,0
+3_2_3_1,3,2,3,1,36748,19689,36748,DeuceCourt,177 KPH,NA,NA,,,,1,Forced Error,NA,False,Volley,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,2,0
+NA,3,2,4,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,0
+3_2_4_2,3,2,4,2,36748,19689,19689,AdCourt,202 KPH,NA,NA,,,,6,Unforced Error,NA,False,Volley,ForeHand,1.21 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,3,0
+3_2_5_1,3,2,5,1,36748,19689,36748,DeuceCourt,187 KPH,NA,NA,,,,3,Winner,NA,False,Volley,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,3,1
+3_3_1_1,3,3,1,1,19689,36748,36748,DeuceCourt,214.51 KPH,Flat,0 Metre,11.474,0.638,2.896,0,Faulty Serve,NA,False,NA,NA,1 Metre,NA,NA,False,False,True,-4.812,-2.841,0.04,Wide,0.999,-0.0,-1.702,11.474,0.638,2.896,-4.812,-2.841,0.04,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+3_3_1_2,3,3,1,2,19689,36748,36748,DeuceCourt,202 KPH,NA,NA,,,,0,DoubleFault,NA,False,Volley,BackHand,1.21 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,1,0,0,0,0,0,0
+3_3_2_1,3,3,2,1,19689,36748,19689,AdCourt,203 KPH,NA,NA,,,,1,Forced Error,NA,False,Drop,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,1,0,0,1
+3_3_3_1,3,3,3,1,19689,36748,19689,DeuceCourt,190 KPH,NA,NA,,,,1,Forced Error,NA,False,Drop,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,1
+3_3_4_1,3,3,4,1,19689,36748,19689,AdCourt,214.51 KPH,NA,NA,,,,0,Faulty Serve,NA,False,NA,BackHand,1 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,1
+3_3_4_2,3,3,4,2,19689,36748,36748,AdCourt,156 KPH,Pronated,NA,11.445,-1.43,2.934,6,Unforced Error,NA,True,Drop,BackHand,0.62 Metre,NA,Net Error,False,False,True,-3.74,3.475,0.036,Wide,1.061,0.0,2.468,11.666,-1.369,1.064,0.069,-2.346,0.028,-10.238,5.589,1.685,0.0,0.963,1.829,9.145,-3.197,0.04,NA,0,0,0,0,0,0,2,1
+NA,3,3,5,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,2
+3_3_5_2,3,3,5,2,19689,36748,36748,DeuceCourt,156 KPH,NA,NA,,,,0,DoubleFault,NA,False,Drop,BackHand,0.62 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,1,0,0,0,0,2,2
+3_3_6_1,3,3,6,1,19689,36748,19689,AdCourt,178 KPH,Kick,NA,11.425,-1.456,2.855,3,Forced Error,NA,True,Ground,BackHand,0.73 Metre,NA,NA,True,False,True,-4.395,2.924,0.035,Wide,1.115,0.0,1.864,-16.18,3.962,0.679,,,,-13.545,5.291,1.576,0.0,0.748,2.822,7.405,-1.563,0.038,2872.02,0,0,0,0,1,0,2,3
+3_3_7_1,3,3,7,1,19689,36748,36748,DeuceCourt,156 KPH,NA,NA,,,,2,Unforced Error,NA,False,Drop,BackHand,0.62 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,3,3
+3_3_8_1,3,3,8,1,19689,36748,36748,AdCourt,178 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,BackHand,0.73 Metre,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,2872.02,1,0,0,0,0,0,3,4
+3_3_8_2,3,3,8,2,19689,36748,36748,AdCourt,NA,NA,NA,,,,8,Unforced Error,NA,False,,BackHand,NA,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,4
+3_4_1_1,3,4,1,1,36748,19689,36748,DeuceCourt,186 KPH,Slice,NA,11.13,1.382,2.818,3,Winner,NA,False,Ground,ForeHand,1.47 Metre,Down the Line,NA,False,False,True,-5.595,-3.592,0.04,Wide,1.214,0.0,-1.777,8.431,2.732,1.581,-8.648,3.056,0.032,-16.289,-7.535,0.881,0.0,-0.747,1.957,4.12,0.868,0.047,2464.56,0,0,0,0,0,0,0,0
+NA,3,4,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+3_4_2_2,3,4,2,2,36748,19689,19689,AdCourt,186 KPH,NA,NA,,,,2,Forced Error,NA,False,Ground,BackHand,1.47 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2464.56,0,0,0,0,0,0,1,0
+3_4_3_1,3,4,3,1,36748,19689,19689,DeuceCourt,200 KPH,Flat,NA,11.22,1.195,2.907,4,Forced Error,NA,True,Ground,ForeHand,0.55 Metre,NA,NA,False,False,True,-4.108,-1.3,0.04,T,0.967,0.0,-0.605,14.838,4.67,1.113,,,,-16.972,-3.565,1.069,-0.0,-3.644,3.297,9.431,-3.081,0.039,1887.96,0,0,0,0,0,0,1,1
+3_4_4_1,3,4,4,1,36748,19689,36748,AdCourt,208 KPH,NA,NA,,,,3,Forced Error,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1887.96,0,0,0,0,0,0,1,2
+3_4_5_1,3,4,5,1,36748,19689,19689,DeuceCourt,201 KPH,Flat,NA,10.948,1.145,2.822,2,Unforced Error,NA,False,Ground,ForeHand,2.33 Metre,NA,Wide Error,False,False,True,-4.307,-0.842,0.04,T,0.973,-0.0,-0.238,11.391,3.713,0.728,-9.366,-4.449,0.042,-16.861,-2.608,1.111,0.0,0.954,1.272,5.969,2.368,0.042,3116.04,0,0,0,0,0,0,2,2
+3_4_6_1,3,4,6,1,36748,19689,19689,AdCourt,201 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,BackHand,2.33 Metre,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,3116.04,1,0,0,0,0,0,2,3
+3_4_6_2,3,4,6,2,36748,19689,36748,AdCourt,186 KPH,NA,NA,,,,7,Winner,NA,False,Ground,BackHand,1.47 Metre,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,2464.56,0,0,0,0,0,0,2,3
+NA,3,4,7,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,3
+3_4_7_2,3,4,7,2,36748,19689,19689,DeuceCourt,201 KPH,NA,NA,,,,6,Winner,NA,False,Ground,BackHand,2.33 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3116.04,0,0,0,0,0,0,3,3
+3_4_8_1,3,4,8,1,36748,19689,36748,AdCourt,198 KPH,NA,NA,,,,3,Winner,NA,False,Ground,ForeHand,NA,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,3116.04,0,0,0,0,0,0,3,4
+NA,3,4,9,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,4,4
+3_4_9_2,3,4,9,2,36748,19689,19689,DeuceCourt,201 KPH,NA,NA,,,,10,Unforced Error,NA,False,Ground,ForeHand,2.33 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3116.04,0,0,0,0,0,0,4,4
+3_4_10_1,3,4,10,1,36748,19689,19689,AdCourt,205.33 KPH,Flat,1.44 Metre,11.148,-1.373,2.859,0,Faulty Serve,Long Error,False,NA,BackHand,1.4 Metre,NA,NA,True,False,True,-7.843,0.775,0.041,T,1.395,0.0,-0.042,11.148,-1.373,2.859,-7.843,0.775,0.041,,,,,,,,,,NA,1,0,0,0,0,0,4,5
+3_4_10_2,3,4,10,2,36748,19689,36748,AdCourt,186 KPH,NA,NA,,,,5,Forced Error,NA,False,Ground,BackHand,1.47 Metre,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,2464.56,0,0,0,0,0,0,4,5
+3_4_11_1,3,4,11,1,36748,19689,19689,DeuceCourt,200 KPH,NA,NA,,,,2,Unforced Error,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3116.04,0,0,0,0,0,0,5,5
+3_4_12_1,3,4,12,1,36748,19689,19689,AdCourt,205.33 KPH,NA,NA,,,,0,Faulty Serve,NA,False,NA,ForeHand,1.4 Metre,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,5,6
+3_4_12_2,3,4,12,2,36748,19689,19689,AdCourt,185 KPH,Slice,NA,11.525,-1.793,2.911,6,Unforced Error,NA,True,Ground,ForeHand,0.75 Metre,NA,Net Error,True,True,True,-6.093,1.027,0.04,T,1.367,0.0,0.222,13.168,-3.197,1.405,0.199,1.484,0.04,-17.326,2.413,1.376,0.0,-0.158,1.781,7.664,-1.461,0.038,2512.2,0,0,0,0,0,0,5,6
+3_5_1_1,3,5,1,1,19689,36748,36748,DeuceCourt,210 KPH,Flat,NA,-11.518,-0.584,2.91,4,Winner,NA,False,Passing,ForeHand,1.73 Metre,Down the Line,NA,False,False,True,5.625,0.138,0.048,T,1.146,-0.0,-0.157,16.268,4.029,1.158,-8.289,3.9,0.032,14.247,0.695,1.157,-0.0,0.29,2.248,-7.576,0.46,0.04,2623.92,0,0,0,0,0,0,0,0
+NA,3,5,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,1
+3_5_2_2,3,5,2,2,19689,36748,36748,AdCourt,210 KPH,NA,NA,,,,0,DoubleFault,NA,False,Passing,BackHand,1.73 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2623.92,1,1,0,0,0,0,0,1
+3_5_3_1,3,5,3,1,19689,36748,36748,DeuceCourt,186 KPH,NA,NA,,,,10,Winner,NA,False,Ground,BackHand,1.47 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2464.56,0,0,0,0,1,0,0,2
+3_5_4_1,3,5,4,1,19689,36748,19689,AdCourt,201 KPH,NA,NA,,,,5,Forced Error,NA,False,Passing,BackHand,NA,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,2623.92,0,0,0,0,0,0,0,3
+3_5_5_1,3,5,5,1,19689,36748,19689,DeuceCourt,184 KPH,NA,NA,,,,5,Winner,NA,False,Passing,ForeHand,NA,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,2623.92,0,0,0,0,0,0,1,3
+NA,3,5,6,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,3
+3_5_6_2,3,5,6,2,19689,36748,36748,AdCourt,NA,NA,NA,,,,4,Unforced Error,NA,False,,ForeHand,NA,NA,NA,True,True,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,3
+3_6_1_1,3,6,1,1,36748,19689,19689,DeuceCourt,185 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,ForeHand,0.75 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2512.2,1,0,0,0,0,0,0,0
+3_6_1_2,3,6,1,2,36748,19689,19689,DeuceCourt,174 KPH,Slice,NA,-11.359,-0.943,2.832,2,Unforced Error,NA,True,NA,ForeHand,0.93 Metre,NA,Net Error,False,False,True,5.05,3.755,0.038,Wide,1.247,-0.0,2.076,-4.06,0.253,1.352,-1.054,-1.549,0.037,15.848,7.444,0.814,0.0,1.668,2.679,-1.054,-1.549,0.037,NA,0,0,0,0,0,0,0,0
+3_6_2_1,3,6,2,1,36748,19689,19689,AdCourt,189 KPH,Kick,NA,-11.398,1.272,2.934,4,Winner,NA,False,Drop,ForeHand,1.14 Metre,Cross Court,NA,False,False,True,3.963,-0.239,0.047,T,0.986,0.0,0.069,5.328,3.65,0.119,-4.086,-3.58,0.04,16.876,-1.216,1.586,-0.0,-0.063,1.306,-4.737,0.324,0.039,882,0,0,0,0,0,0,0,1
+3_6_3_1,3,6,3,1,36748,19689,36748,DeuceCourt,194 KPH,Slice,NA,-11.132,-1.338,2.871,15,Winner,NA,False,Ground,ForeHand,1.26 Metre,Down the Line,NA,False,False,True,5.704,1.704,0.044,Body,1.2,-0.0,0.582,-6.846,-3.789,0.857,9.198,-3.351,0.039,16.353,4.061,1.037,0.0,2.773,2.408,-11.671,1.596,0.041,2443.68,0,0,0,0,0,0,0,2
+NA,3,6,4,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,2
+3_6_4_2,3,6,4,2,36748,19689,36748,AdCourt,194 KPH,NA,NA,,,,9,Unforced Error,NA,False,Ground,ForeHand,1.26 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2443.68,0,0,0,0,0,0,1,2
+3_6_5_1,3,6,5,1,36748,19689,36748,DeuceCourt,197 KPH,NA,NA,,,,11,Unforced Error,NA,False,Ground,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2443.68,0,0,0,0,0,0,2,2
+NA,3,6,6,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,3,2
+3_6_6_2,3,6,6,2,36748,19689,36748,AdCourt,164 KPH,Pronated,NA,-11.409,1.847,2.861,1,Forced Error,NA,False,Ground,BackHand,3.05 Metre,NA,NA,False,False,True,3.92,-2.406,0.035,Body,1.077,0.0,-1.46,15.089,-5.507,1.685,-12.567,3.072,0.045,15.089,-5.507,1.685,0.0,-0.347,3.046,-12.567,3.072,0.045,2098.14,0,0,0,0,0,0,3,2
+3_7_1_1,3,7,1,1,19689,36748,19689,DeuceCourt,191 KPH,NA,NA,,,,3,Forced Error,NA,False,Passing,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2623.92,0,0,0,0,0,0,0,0
+3_7_2_1,3,7,2,1,19689,36748,36748,AdCourt,164 KPH,NA,NA,,,,2,Forced Error,NA,False,Ground,BackHand,3.05 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2098.14,0,0,0,0,0,0,1,0
+3_7_3_1,3,7,3,1,19689,36748,36748,DeuceCourt,190.49 KPH,Flat,1.19 Metre,11.616,0.666,2.915,0,Faulty Serve,Long Error,False,NA,ForeHand,1.49 Metre,NA,NA,False,False,True,-7.586,-3.655,0.039,Wide,1.489,0.0,-1.761,11.616,0.666,2.915,-7.586,-3.655,0.039,,,,,,,,,,NA,1,0,0,0,0,0,1,1
+3_7_3_2,3,7,3,2,19689,36748,36748,DeuceCourt,171 KPH,Slice,NA,11.62,0.641,2.966,4,Unforced Error,NA,False,Ground,ForeHand,2.09 Metre,NA,Long Error,False,False,True,-4.254,-2.61,0.04,Body,1.031,0.0,-1.56,13.241,-2.651,1.112,-12.885,-1.882,0.041,-15.467,-5.594,1.201,0.0,-1.654,2.037,11.302,1.191,0.044,3341.94,0,0,0,0,0,0,1,1
+3_7_4_1,3,7,4,1,19689,36748,36748,AdCourt,171 KPH,NA,NA,,,,4,Unforced Error,NA,False,Ground,ForeHand,2.09 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3341.94,0,0,0,0,0,0,1,2
+3_7_5_1,3,7,5,1,19689,36748,19689,DeuceCourt,192 KPH,NA,NA,,,,1,Forced Error,NA,False,Passing,ForeHand,NA,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,2623.92,0,0,0,0,0,0,1,3
+3_7_6_1,3,7,6,1,19689,36748,19689,AdCourt,190 KPH,NA,NA,,,,3,Forced Error,NA,False,Passing,ForeHand,NA,NA,NA,True,False,False,,,,,,,,,,,,,,,,,,,,,,,2623.92,0,0,0,0,0,0,2,3
+3_7_7_1,3,7,7,1,19689,36748,19689,DeuceCourt,208 KPH,Flat,NA,11.557,0.349,2.925,3,Forced Error,NA,True,Passing,ForeHand,0.05 Metre,NA,NA,False,False,True,-5.667,-0.997,0.039,T,1.179,0.0,-0.493,-16.939,-4.565,1.283,0.012,-3.238,0.028,-13.888,-1.816,1.462,-0.0,-1.372,1.274,5.258,-1.136,0.039,1203.6,0,0,0,0,0,0,3,3
+3_7_8_1,3,7,8,1,19689,36748,19689,AdCourt,198 KPH,NA,NA,,,,1,Winner,NA,False,Passing,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1203.6,0,0,0,0,0,0,4,3
+3_8_1_1,3,8,1,1,36748,19689,36748,DeuceCourt,191 KPH,NA,NA,,,,11,Forced Error,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2443.68,0,0,0,0,0,0,0,0
+NA,3,8,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+3_8_2_2,3,8,2,2,36748,19689,36748,AdCourt,164 KPH,Flat,NA,11.413,-1.668,2.863,5,Winner,NA,False,Lob,BackHand,NA,Cross Court,NA,False,False,True,-5.02,3.103,0.033,Wide,1.266,0.0,1.849,11.754,-2.814,0.873,-8.63,2.612,0.032,-15.242,5.967,1.43,0.0,0.844,1.695,7.235,-1.232,0.039,2000.7,0,0,0,0,0,0,1,0
+3_8_3_1,3,8,3,1,36748,19689,36748,DeuceCourt,193 KPH,NA,NA,,,,5,Forced Error,NA,False,Ground,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2443.68,0,0,0,0,0,0,2,0
+3_8_4_1,3,8,4,1,36748,19689,36748,AdCourt,200 KPH,Flat,NA,10.974,-1.308,2.794,1,Ace,NA,False,NA,ForeHand,1.01 Metre,Cross Court,NA,False,False,True,-4.64,0.181,0.039,T,1.011,0.0,-0.176,10.974,-1.308,2.794,-4.64,0.181,0.039,,,,,,,,,,NA,0,0,0,1,0,0,3,0
+NA,3,9,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,1,0,0
+3_9_1_2,3,9,1,2,19689,36748,36748,DeuceCourt,200 KPH,NA,NA,,,,4,Unforced Error,NA,False,NA,ForeHand,1.01 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,0,0
+3_9_2_1,3,9,2,1,19689,36748,36748,AdCourt,200 KPH,NA,NA,,,,4,Forced Error,NA,False,NA,BackHand,1.01 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,0,1
+3_9_3_1,3,9,3,1,19689,36748,19689,DeuceCourt,184 KPH,Slice,NA,-11.474,-0.698,2.912,1,Forced Error,NA,True,Ground,ForeHand,1.14 Metre,NA,NA,False,False,True,4.876,3.73,0.038,Wide,1.137,-0.0,2.229,12.332,6.139,1.254,5.471,4.615,0.028,,,,,,,,,,1211.22,0,0,0,0,0,0,0,2
+NA,3,9,4,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,2
+3_9_4_2,3,9,4,2,19689,36748,19689,AdCourt,208 KPH,NA,NA,,,,13,Winner,NA,False,Passing,BackHand,0.05 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1203.6,0,0,0,0,0,0,1,2
+3_9_5_1,3,9,5,1,19689,36748,19689,DeuceCourt,208 KPH,Flat,NA,-11.513,-0.646,2.887,3,Winner,NA,False,Drop,ForeHand,1.24 Metre,Down the Line,NA,False,False,True,5.957,0.729,0.045,T,1.149,-0.0,0.195,-11.473,1.051,0.953,3.066,2.41,0.035,14.257,1.541,0.957,0.0,0.998,1.61,-8.162,0.951,0.041,NA,0,0,0,0,0,0,2,2
+3_9_6_1,3,9,6,1,19689,36748,19689,AdCourt,194 KPH,NA,NA,,,,1,Forced Error,NA,False,Drop,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,3,2
+3_10_1_1,3,10,1,1,36748,19689,36748,DeuceCourt,200 KPH,NA,NA,,,,0,Faulty Serve,NA,False,NA,ForeHand,1.01 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+3_10_1_2,3,10,1,2,36748,19689,19689,DeuceCourt,200 KPH,NA,NA,,,,10,Unforced Error,NA,False,NA,ForeHand,1.01 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,0,0
+3_10_2_1,3,10,2,1,36748,19689,36748,AdCourt,NA,NA,NA,,,,1,Ace,NA,False,NA,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,1,0,0,0,1
+NA,3,10,3,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,1,1,1
+3_10_3_2,3,10,3,2,36748,19689,36748,DeuceCourt,173 KPH,Flat,NA,-11.185,-1.021,2.848,9,Unforced Error,NA,False,Ground,ForeHand,1.85 Metre,NA,Wide Error,False,False,True,5.031,3.056,0.038,Wide,1.232,-0.0,1.621,13.15,-2.34,0.743,-10.072,4.274,0.033,16.317,6.242,1.08,0.0,3.908,2.385,-9.999,2.581,0.033,3832.44,0,0,0,0,0,0,1,1
+3_10_4_1,3,10,4,1,36748,19689,36748,AdCourt,204 KPH,NA,NA,,,,1,Forced Error,NA,False,NA,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,2,1
+3_10_5_1,3,10,5,1,36748,19689,36748,DeuceCourt,173 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,BackHand,1.85 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3832.44,1,0,0,0,0,0,3,1
+3_10_5_2,3,10,5,2,36748,19689,19689,DeuceCourt,165 KPH,Flat,NA,-11.791,-0.859,2.909,6,Unforced Error,NA,False,Ground,BackHand,2.66 Metre,NA,Long Error,False,False,True,5.3,1.309,0.044,T,1.326,0.0,0.444,-13.702,0.929,1.27,12.885,3.29,0.04,16.289,2.732,1.266,0.0,0.026,1.732,-8.369,-1.613,0.038,1958.58,0,0,0,0,0,0,3,1
+3_10_6_1,3,10,6,1,36748,19689,19689,AdCourt,194 KPH,Flat,NA,-11.077,1.359,2.837,2,Unforced Error,NA,False,Ground,ForeHand,3.37 Metre,NA,Long Error,False,False,True,5.464,-0.439,0.048,T,1.164,-0.0,0.083,-15.139,-3.006,1.922,12.828,-3.112,0.04,16.855,-1.342,1.057,0.0,-2.221,3.355,-8.315,-2.644,0.041,2680.5,0,0,0,0,0,0,3,2
+3_10_7_1,3,10,7,1,36748,19689,36748,DeuceCourt,181 KPH,NA,NA,,,,3,Winner,NA,False,Ground,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2680.5,0,0,0,0,0,0,3,3
+3_10_8_1,3,10,8,1,36748,19689,36748,AdCourt,218 KPH,NA,NA,,,,15,Unforced Error,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2680.5,0,0,0,0,0,0,4,3
+4_1_1_1,4,1,1,1,19689,36748,19689,DeuceCourt,203 KPH,NA,NA,,,,7,Winner,NA,False,Drop,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,0,0
+NA,4,1,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+4_1_2_2,4,1,2,2,19689,36748,36748,AdCourt,162 KPH,Pronated,NA,11.478,-1.286,2.902,2,Unforced Error,NA,True,Ground,BackHand,0.79 Metre,NA,Net Error,False,False,True,-4.847,2.98,0.034,Wide,1.255,0.0,1.943,11.497,-2.679,0.723,0.16,0.741,0.04,-10.78,4.563,1.521,-0.0,0.93,1.165,6.341,-1.114,0.04,2660.16,0,0,0,0,0,0,1,0
+4_1_3_1,4,1,3,1,19689,36748,19689,DeuceCourt,177 KPH,Kick,NA,11.487,0.52,2.893,1,Forced Error,NA,False,Ground,ForeHand,1.86 Metre,NA,NA,False,False,True,-4.989,-3.732,0.04,Wide,1.174,-0.0,-2.257,-12.775,-5.943,1.543,8.57,-4.615,0.025,-12.775,-5.943,1.543,0.0,-5.4,1.859,8.57,-4.615,0.025,1004.16,0,0,0,0,0,0,1,1
+NA,4,1,4,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,1
+4_1_4_2,4,1,4,2,19689,36748,19689,AdCourt,177 KPH,NA,NA,,,,5,Forced Error,NA,False,Ground,BackHand,1.86 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1004.16,0,0,0,0,0,0,2,1
+4_1_5_1,4,1,5,1,19689,36748,19689,DeuceCourt,207 KPH,Flat,NA,11.475,0.547,2.893,3,Winner,NA,False,Ground,ForeHand,1.61 Metre,Down the Line,NA,False,False,True,-5.99,-0.273,0.037,T,1.185,0.0,0.057,9.63,-1.257,0.99,-11.766,-3.699,0.034,-14.236,-0.716,1.192,0.0,-0.765,2.307,7.696,-0.987,0.04,3759.36,0,0,0,0,0,0,3,1
+4_2_1_1,4,2,1,1,36748,19689,19689,DeuceCourt,201 KPH,Pronated,NA,11.05,1.146,2.829,2,Winner,NA,False,Ground,BackHand,3.29 Metre,Cross Court,NA,False,False,True,-4.498,-0.186,0.039,T,0.976,0.0,0.213,-17.812,-1.265,1.114,8.78,0.474,0.045,-17.812,-1.265,1.114,0.0,-0.045,3.286,8.78,0.474,0.045,NA,0,0,0,0,0,0,0,0
+4_2_2_1,4,2,2,1,36748,19689,19689,AdCourt,201 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,ForeHand,3.29 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,1
+4_2_2_2,4,2,2,2,36748,19689,36748,AdCourt,194 KPH,NA,NA,,,,7,Winner,NA,False,Ground,ForeHand,1.26 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2443.68,0,0,0,0,0,0,0,1
+4_2_3_1,4,2,3,1,36748,19689,19689,DeuceCourt,185 KPH,NA,NA,,,,12,Forced Error,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,1
+NA,4,2,4,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,2
+4_2_4_2,4,2,4,2,36748,19689,36748,AdCourt,162 KPH,NA,NA,,,,1,Forced Error,NA,False,Ground,ForeHand,0.79 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2660.16,0,0,0,0,0,0,1,2
+NA,4,2,5,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,2
+4_2_5_2,4,2,5,2,36748,19689,36748,DeuceCourt,174 KPH,Flat,NA,11.569,0.896,2.867,1,Forced Error,NA,False,Ground,ForeHand,3.15 Metre,NA,NA,False,False,True,-5.314,-3.597,0.04,Wide,1.315,0.0,-1.973,-17.099,-7.084,0.877,12.885,2.014,0.043,-17.099,-7.084,0.877,-0.0,-1.815,3.154,12.885,2.014,0.043,3066.6,0,0,0,0,0,0,2,2
+4_2_6_1,4,2,6,1,36748,19689,36748,AdCourt,174 KPH,NA,NA,,,,0,Faulty Serve,NA,False,Ground,BackHand,3.15 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3066.6,1,0,0,0,0,0,3,2
+4_2_6_2,4,2,6,2,36748,19689,19689,AdCourt,174 KPH,NA,NA,,,,12,Forced Error,NA,False,Ground,BackHand,3.15 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3066.6,0,0,0,0,0,0,3,2
+4_2_7_1,4,2,7,1,36748,19689,36748,DeuceCourt,184 KPH,Flat,NA,11.374,1.227,2.868,3,Forced Error,NA,True,Passing,BackHand,1.38 Metre,NA,NA,False,False,True,-5.104,-3.463,0.04,Wide,1.215,-0.0,-1.851,-4.314,4.563,0.084,-0.078,-1.272,0.039,-16.532,-6.99,1.094,-0.0,-2.343,1.582,7.183,-0.463,0.043,964.56,0,0,0,0,0,0,3,3
+4_2_8_1,4,2,8,1,36748,19689,36748,AdCourt,197 KPH,NA,NA,,,,13,Forced Error,NA,False,Passing,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,964.56,0,0,0,0,0,0,4,3
+NA,4,3,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+4_3_1_2,4,3,1,2,19689,36748,36748,DeuceCourt,184 KPH,NA,NA,,,,4,Forced Error,NA,False,Passing,BackHand,1.38 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,964.56,0,0,0,0,0,0,0,0
+4_3_2_1,4,3,2,1,19689,36748,19689,AdCourt,204 KPH,NA,NA,,,,1,Forced Error,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,3759.36,0,0,0,0,0,0,0,1
+4_3_3_1,4,3,3,1,19689,36748,19689,DeuceCourt,208 KPH,Flat,NA,-11.622,-0.426,2.924,13,Forced Error,NA,False,Passing,ForeHand,1.65 Metre,NA,NA,False,False,True,5.338,0.552,0.048,T,1.094,-0.0,0.17,5.705,2.213,0.637,-11.033,-4.615,0.032,14.061,1.276,1.039,-0.0,0.054,1.427,-7.306,-0.417,0.039,2251.74,0,0,0,0,0,0,1,1
+4_3_4_1,4,3,4,1,19689,36748,19689,AdCourt,166 KPH,NA,NA,,,,1,Forced Error,NA,False,Passing,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2251.74,0,0,0,0,0,0,2,1
+4_3_5_1,4,3,5,1,19689,36748,36748,DeuceCourt,184 KPH,NA,NA,,,,6,Winner,NA,False,Passing,ForeHand,1.38 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,964.56,0,0,0,0,0,0,3,1
+4_3_6_1,4,3,6,1,19689,36748,19689,AdCourt,205 KPH,Flat,NA,-11.353,1.138,2.881,1,Winner,NA,False,NA,ForeHand,1 Metre,Cross Court,NA,False,False,True,4.578,-0.169,0.048,T,0.999,-0.0,0.126,-11.353,1.138,2.881,4.578,-0.169,0.048,,,,,,,,,,NA,0,0,0,0,0,0,3,2
+NA,4,4,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+4_4_1_2,4,4,1,2,36748,19689,36748,DeuceCourt,157 KPH,Slice,NA,-11.197,-1.036,2.902,13,Winner,NA,False,Volley,ForeHand,2.04 Metre,Down the Line,NA,False,False,True,5.865,0.807,0.045,T,1.421,-0.0,-0.057,-3.914,0.443,2.123,10.718,2.269,0.041,16.814,2.552,1.198,0.0,0.292,1.834,-8.185,-1.175,0.039,NA,0,0,0,0,0,0,0,0
+4_4_2_1,4,4,2,1,36748,19689,36748,AdCourt,201.87 KPH,Pronated,2.35 Metre,-10.918,1.096,2.773,0,Faulty Serve,Long Error,False,NA,BackHand,0.92 Metre,NA,NA,False,False,True,8.749,-1.367,0.039,T,0.921,0.034,-0.269,-10.918,1.096,2.773,8.749,-1.367,0.039,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+4_4_2_2,4,4,2,2,36748,19689,36748,AdCourt,157 KPH,NA,NA,,,,3,Unforced Error,NA,False,Volley,BackHand,2.04 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,0
+4_4_3_1,4,4,3,1,36748,19689,36748,DeuceCourt,NA,NA,NA,,,,1,Ace,NA,False,NA,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,1,0,0,2,0
+4_4_4_1,4,4,4,1,36748,19689,36748,AdCourt,203 KPH,Flat,NA,-10.836,1.294,2.808,3,Winner,NA,False,Volley,ForeHand,1.08 Metre,Cross Court,NA,False,False,True,4.453,-2.977,0.036,Wide,0.988,0.0,-1.745,-3.963,-0.677,1.724,4.441,1.526,0.048,14.352,-5.725,1.408,0.0,-1.825,2.318,4.441,1.526,0.048,NA,0,0,0,0,0,1,3,0
+4_5_1_1,4,5,1,1,19689,36748,19689,DeuceCourt,195 KPH,NA,NA,,,,1,Forced Error,NA,False,NA,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,0,0
+4_5_2_1,4,5,2,1,19689,36748,19689,AdCourt,221 KPH,NA,NA,,,,1,Forced Error,NA,False,NA,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,0
+4_5_3_1,4,5,3,1,19689,36748,19689,DeuceCourt,NA,NA,NA,,,,1,Ace,NA,False,,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,2,0
+4_5_4_1,4,5,4,1,19689,36748,19689,AdCourt,217 KPH,NA,NA,,,,1,Forced Error,NA,False,NA,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,1,3,0
+4_6_1_1,4,6,1,1,36748,19689,36748,DeuceCourt,199 KPH,NA,NA,,,,3,Winner,NA,False,Volley,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,0,0
+4_6_2_1,4,6,2,1,36748,19689,36748,AdCourt,194 KPH,NA,NA,,,,1,Forced Error,NA,False,Volley,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,0
+4_6_3_1,4,6,3,1,36748,19689,36748,DeuceCourt,207 KPH,NA,NA,,,,1,Forced Error,NA,False,Volley,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,2,0
+4_6_4_1,4,6,4,1,36748,19689,36748,AdCourt,200 KPH,NA,NA,,,,3,Forced Error,NA,False,Volley,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,3,0
+4_7_1_1,4,7,1,1,19689,36748,19689,DeuceCourt,215 KPH,NA,NA,,,,1,Forced Error,NA,False,NA,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,0,0
+NA,4,7,2,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,0
+4_7_2_2,4,7,2,2,19689,36748,36748,AdCourt,203 KPH,NA,NA,,,,2,Unforced Error,NA,False,Volley,BackHand,1.08 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,0
+4_7_3_1,4,7,3,1,19689,36748,19689,DeuceCourt,182 KPH,NA,NA,,,,13,Winner,NA,False,NA,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,1,1
+4_7_4_1,4,7,4,1,19689,36748,19689,AdCourt,191 KPH,Flat,NA,-11.428,1.237,2.91,3,Unforced Error,NA,True,Volley,ForeHand,0.81 Metre,NA,Net Error,False,False,True,5.508,-3.29,0.036,Wide,1.144,-0.0,-1.902,14.768,1.97,1.43,,,,13.533,-5.241,1.246,0.0,-1.868,1.355,-7.269,-0.097,0.038,0,0,0,0,0,0,0,2,1
+4_7_5_1,4,7,5,1,19689,36748,19689,DeuceCourt,189 KPH,NA,NA,,,,3,Forced Error,NA,False,Ground,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2238.6,0,0,0,0,0,0,3,1
+NA,4,8,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+4_8_1_2,4,8,1,2,36748,19689,36748,DeuceCourt,203 KPH,NA,NA,,,,13,Forced Error,NA,False,Volley,BackHand,1.08 Metre,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,0,0,0,0,0,0,0,0
+4_8_2_1,4,8,2,1,36748,19689,36748,AdCourt,207 KPH,Pronated,NA,-11.271,1.577,2.929,5,Unforced Error,NA,False,Ground,ForeHand,2.2 Metre,NA,Long Error,False,False,True,4.935,-2.647,0.038,Body,1.093,0.0,-1.355,14.448,0.133,1.133,-12.024,-2.628,0.037,13.498,-4.881,1.428,0.0,-0.789,1.839,-9.084,2.052,0.032,2804.76,0,0,0,0,0,0,1,0
+4_8_3_1,4,8,3,1,36748,19689,36748,DeuceCourt,209 KPH,NA,NA,,,,1,Forced Error,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,2804.76,0,0,0,0,0,0,2,0
+4_8_4_1,4,8,4,1,36748,19689,36748,AdCourt,174 KPH,Flat,NA,-11.264,1.494,2.835,1,Forced Error,NA,True,Passing,BackHand,0.69 Metre,NA,NA,False,False,True,4.597,-3.001,0.036,Wide,1.148,-0.0,-1.856,13.028,-5.343,1.402,0.079,-3.591,0.028,13.028,-5.343,1.402,0.005,-3.78,0.687,0.079,-3.591,0.028,NA,0,0,0,0,0,0,3,0
+NA,4,9,1,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,0,0
+4_9_1_2,4,9,1,2,19689,36748,19689,DeuceCourt,160 KPH,Flat,NA,11.676,0.117,2.936,1,Forced Error,NA,False,Ground,ForeHand,2.98 Metre,NA,NA,False,False,True,-4.294,-0.396,0.04,T,1.106,0.0,-0.058,-16.554,-0.94,1.166,10.032,-4.615,0.026,-16.554,-0.94,1.166,-0.0,-3.684,2.977,10.032,-4.615,0.026,2631.96,0,0,0,0,0,0,0,0
+4_9_2_1,4,9,2,1,19689,36748,19689,AdCourt,205 KPH,Flat,NA,11.45,-1.232,2.911,1,Ace,NA,False,NA,ForeHand,1.02 Metre,Cross Court,NA,False,False,True,-4.672,3.987,0.035,Wide,1.018,0.0,2.499,11.45,-1.232,2.911,-4.672,3.987,0.035,,,,,,,,,,0,0,0,0,1,0,0,1,0
+4_9_3_1,4,9,3,1,19689,36748,19689,DeuceCourt,184 KPH,NA,NA,,,,3,Winner,NA,False,NA,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,2,0
+4_9_4_1,4,9,4,1,19689,36748,19689,AdCourt,200 KPH,NA,NA,,,,3,Winner,NA,False,NA,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,0
+4_10_1_1,4,10,1,1,36748,19689,19689,DeuceCourt,195 KPH,Flat,NA,11.053,1.458,2.855,6,Unforced Error,NA,False,Ground,BackHand,1.84 Metre,NA,Long Error,False,False,True,-5.84,-1.023,0.039,T,1.231,0.0,-0.108,14.02,-1.613,1.159,-12.092,-4.648,0.033,-14.412,-2.442,1.257,-0.0,-0.908,1.772,7.849,0.055,0.046,1647.24,0,0,0,0,0,0,0,0
+4_10_2_1,4,10,2,1,36748,19689,19689,AdCourt,194 KPH,NA,NA,,,,18,Unforced Error,NA,False,Ground,ForeHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1647.24,0,0,0,0,0,0,0,1
+4_10_3_1,4,10,3,1,36748,19689,36748,DeuceCourt,190 KPH,NA,NA,,,,3,Forced Error,NA,False,Ground,BackHand,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,1647.24,0,0,0,0,0,0,0,2
+4_10_4_1,4,10,4,1,36748,19689,19689,AdCourt,194 KPH,Flat,NA,11.322,-1.464,2.897,6,Winner,NA,False,Passing,ForeHand,1.25 Metre,Down the Line,NA,False,False,True,-4.998,3.153,0.034,Wide,1.075,0.0,1.763,-8.028,-4.131,0.808,9.094,-3.467,0.04,-14.234,5.698,1.437,0.0,1.834,1.313,5.291,0.32,0.048,2797.2,0,0,0,0,0,0,1,2
+NA,4,10,5,1,NA,NA,NA,DeuceCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,1,3
+4_10_5_2,4,10,5,2,36748,19689,36748,DeuceCourt,165 KPH,Flat,NA,11.535,0.977,2.93,9,Forced Error,NA,True,Passing,BackHand,0.83 Metre,NA,NA,True,False,True,-5.283,-0.962,0.037,T,1.352,-0.0,-0.145,-16.211,2.634,0.26,-0.151,-1.448,0.039,-16.347,-2.246,1.416,-0.0,-0.139,1.701,6.674,0.552,0.045,NA,0,0,0,0,0,0,1,3
+NA,4,10,6,1,NA,NA,NA,AdCourt,NA,NA,NA,,,,0,Faulty Serve,NA,False,NA,NA,NA,NA,NA,False,False,False,,,,,,,,,,,,,,,,,,,,,,,NA,1,0,0,0,0,0,2,3
+4_10_6_2,4,10,6,2,36748,19689,19689,AdCourt,152 KPH,Pronated,NA,11.274,-1.795,2.815,20,Forced Error,NA,False,Ground,BackHand,2.24 Metre,NA,NA,True,True,True,-4.379,2.642,0.035,Body,1.196,0.0,1.56,12.372,-3.905,0.339,-11.584,4.333,0.042,-15.657,6.137,1.377,0.0,0.155,2.115,6.508,-1.92,0.038,2074.32,0,0,0,0,0,0,2,3
